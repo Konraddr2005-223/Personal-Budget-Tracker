@@ -174,8 +174,11 @@ Font: **Inter** (Google Fonts)
 - [x] Dashboard z wykresem kołowym
 - [x] Tabela transakcji z sortowaniem i wyszukiwaniem
 - [x] System nawigacji (sidebar + zakładki)
-- [ ] Backend Rust – parsowanie CSV (mBank, PKO BP, ING)
-- [ ] Import pliku CSV z dialogiem systemowym
+- [x] Backend Rust – parsowanie CSV (mBank, PKO BP, ING)
+- [x] Import pliku CSV z dialogiem systemowym
+- [x] CRUD transakcji (dodawanie, edycja, usuwanie)
+- [x] Eksport danych do CSV
+- [x] Trwałe przechowywanie danych (JSON)
 - [ ] Filtrowanie transakcji po datach
 - [ ] Eksport raportu do PDF
 - [ ] Budżety miesięczne i alerty przekroczenia
